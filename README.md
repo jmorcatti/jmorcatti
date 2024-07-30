@@ -1,8 +1,8 @@
-<p align="left">Olá, meu nome é João Vitor. Seja bem-vindo ao meu portfólio.</p>
+<h2 align="left">Olá, meu nome é João Vitor. Seja bem-vindo ao meu portfólio.</h2>
 
 ###
 
-<h2 align="left">Atualmente, estou estudando:</h2>
+<p align="left">Atualmente, estou estudando:</p>
 
 ###
 
