@@ -1,7 +1,3 @@
-<h1 align="left">🎉</h1>
-
-###
-
 <p align="left">Olá, meu nome é João Vitor. Seja bem-vindo ao meu portfólio.</p>
 
 ###
